@@ -1,2 +1,2 @@
 # javascriptquestions
-Solution to some javascript based datastructure questions.
+Solution to some datastructure questions in javascript.
